@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#todo-container{
+width: 500px;
+height: auto;
+padding: 1rem;
+margin: 1rem auto;
+background-color: lightblue;
+border-radius: 10px;
+}
+#entry-container{
+  width: auto;
+  height: auto;
+  min-height: 200px;
+  padding: 1rem;
+  background-color: aliceblue;
+  margin: 1rem;
+  border-radius: 10px;
+  text-align: left;
+}
+.entry-div{
+  background-color: lightblue;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+}
